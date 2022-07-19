@@ -1,6 +1,7 @@
 ### I'm Thiago Razzini
 
-<h3 aling="center">Full-stack developer</h3>
+<hr>
+<h3 align="center">Full-stack developer</h3>
 
 - 🌱 I’m currently learning advanced CSS
 - 💬 Ask me about Html, Css and basic C#
